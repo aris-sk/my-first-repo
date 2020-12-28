@@ -7,9 +7,6 @@
 
 ##### My favorite band:
 - Iron maiden
-- This is
-- an unordered
-- list
 
 ### Get in contact:
 [My github account](https://github.com/aris-sk)
