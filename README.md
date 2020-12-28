@@ -7,6 +7,7 @@
 
 ##### My favorite band:
 - Iron maiden
+- Black Sabbath
 
 ### Get in contact:
 [My github account](https://github.com/aris-sk)
